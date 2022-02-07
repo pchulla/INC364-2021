@@ -4,3 +4,7 @@
 
 ## S01 BEER GAME APP
 1. [Online Registration & Play](https://beergameapp.com)
+
+## S02 LINEAR PROGRAMMING
+1. [Anaconda Individual Edition Download](https://www.anaconda.com/products/individual)
+2. [Workshop S02 Files](https://github.com/pchulla/INC364-2021/tree/main/Workshop_S02)
