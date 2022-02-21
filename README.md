@@ -12,3 +12,10 @@
 ## S03 GUROBI OPTIMIZATION
 1. [Gurobi Download (Free Academic License)](https://www.gurobi.com/free-trial)
 2. [Workshop S03 Files](https://github.com/pchulla/INC364-2021/tree/main/Workshop_S03)
+
+## S04 GUROBI OPTIMIZATION (JOB SCHEDULING)
+1. [Gurobi Python API Documents](https://www.gurobi.com/documentation/9.5/refman/py_python_api_overview.html)
+1. [Gurobi Examples using Gurobi Python API](https://www.gurobi.com/resource/modeling-examples-using-the-gurobi-python-api-in-jupyter-notebook)
+2. [Workshop S04 Files](https://github.com/pchulla/INC364-2021/tree/main/Workshop_S04)
+
+Thanks to [baptistesoulard](https://github.com/baptistesoulard/Production-plan-optimization) for the reference examples in S03 and S04.
