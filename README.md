@@ -2,6 +2,8 @@
 
 **King Mongut's University of Technology Thonburi**
 
+**This repository must work with [AnyLogic Simulation Software](https://www.anylogic.com)!**
+
 ## S01 BEER GAME APP
 1. [Online Registration & Play](https://beergameapp.com)
 
@@ -19,3 +21,8 @@
 2. [Workshop S04 Files](https://github.com/pchulla/INC364-2021/tree/main/Workshop_S04)
 
 Thanks to [baptistesoulard](https://github.com/baptistesoulard/Production-plan-optimization) for the reference examples in S03 and S04.
+
+## S05 PRODUCTION SIMULATION (QUEUING SYSTEM)
+1. [AnyLogic Personal Learning Edition Download](https://www.anylogic.com/downloads/personal-learning-edition-download)
+2. [Get Started with AnyLogic](https://www.anylogic.com/getting-started)
+3. [Workshop S05 Files](https://github.com/pchulla/INC364-2021/tree/main/Workshop_S05)
